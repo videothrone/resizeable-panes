@@ -18,7 +18,7 @@ HTML, CSS, jQuery
 
 ## Features
 
--   Users can drag the bar on mousedown to reveal more of a bw photo a the Orion Nebula.
+-   Users can drag the bar on mousedown to reveal more of a color version of a bw photo of the Orion Nebula.
 
 -   The moment the user releases the mouse, the bar jumps back to the initial middle position.
 
