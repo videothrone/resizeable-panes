@@ -24,9 +24,9 @@ HTML, CSS, jQuery
 
 ## Goals while doing the project
 
--   This was a little exercise, learning a basic UI feature with `mousedown`and jQuery along the way.
+-   Learning a basic UI feature using `mousedown`, `mousemove` and `mouseup` event handlers in jQuery.
 
 ## Image Credit
 
-Hubble's Sharpest View of the Orion Nebula
+Hubble's Sharpest View of the Orion Nebula / NASA
 https://www.flickr.com/photos/nasacommons/16239715270/
